@@ -1,4 +1,4 @@
-package org.example.simple.factory;
+package org.example.simplefactory;
 
 public class Client {
 

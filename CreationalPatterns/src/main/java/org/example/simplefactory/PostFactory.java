@@ -1,4 +1,4 @@
-package org.example.simple.factory;
+package org.example.simplefactory;
 
 /**
  * This class acts as a simple factory for creation of 
