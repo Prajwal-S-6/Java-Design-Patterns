@@ -1,4 +1,4 @@
-package org.example.NullObject;
+package org.example.nullobject;
 
 public class ComplexService {
 

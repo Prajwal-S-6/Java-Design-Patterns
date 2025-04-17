@@ -1,4 +1,4 @@
-package org.example.NullObject;
+package org.example.nullobject;
 
 import java.io.IOException;
 import java.io.PrintWriter;
